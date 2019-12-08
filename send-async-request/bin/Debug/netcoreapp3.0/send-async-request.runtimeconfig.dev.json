@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\guven\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\guven\\.nuget\\packages"
+    ]
+  }
+}

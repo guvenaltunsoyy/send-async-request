@@ -1,0 +1,14 @@
+C:\Users\guven\source\repos\send-async-request\send-async-request\bin\Debug\netcoreapp3.0\send-async-request.exe
+C:\Users\guven\source\repos\send-async-request\send-async-request\obj\Debug\netcoreapp3.0\send-async-request.csprojAssemblyReference.cache
+C:\Users\guven\source\repos\send-async-request\send-async-request\obj\Debug\netcoreapp3.0\send-async-request.AssemblyInfoInputs.cache
+C:\Users\guven\source\repos\send-async-request\send-async-request\obj\Debug\netcoreapp3.0\send-async-request.AssemblyInfo.cs
+C:\Users\guven\source\repos\send-async-request\send-async-request\bin\Debug\netcoreapp3.0\send-async-request.deps.json
+C:\Users\guven\source\repos\send-async-request\send-async-request\bin\Debug\netcoreapp3.0\send-async-request.runtimeconfig.json
+C:\Users\guven\source\repos\send-async-request\send-async-request\bin\Debug\netcoreapp3.0\send-async-request.runtimeconfig.dev.json
+C:\Users\guven\source\repos\send-async-request\send-async-request\bin\Debug\netcoreapp3.0\send-async-request.dll
+C:\Users\guven\source\repos\send-async-request\send-async-request\bin\Debug\netcoreapp3.0\send-async-request.pdb
+C:\Users\guven\source\repos\send-async-request\send-async-request\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\guven\source\repos\send-async-request\send-async-request\obj\Debug\netcoreapp3.0\send-async-request.csproj.CopyComplete
+C:\Users\guven\source\repos\send-async-request\send-async-request\obj\Debug\netcoreapp3.0\send-async-request.dll
+C:\Users\guven\source\repos\send-async-request\send-async-request\obj\Debug\netcoreapp3.0\send-async-request.pdb
+C:\Users\guven\source\repos\send-async-request\send-async-request\bin\Debug\netcoreapp3.0\NLog.dll
