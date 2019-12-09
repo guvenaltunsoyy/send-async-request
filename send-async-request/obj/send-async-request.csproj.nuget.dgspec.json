@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guven\\source\\repos\\send-async-request\\send-async-request\\send-async-request.csproj": {}
+    "c:\\Users\\guven\\source\\repos\\send-async-request\\send-async-request\\send-async-request.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guven\\source\\repos\\send-async-request\\send-async-request\\send-async-request.csproj": {
+    "c:\\Users\\guven\\source\\repos\\send-async-request\\send-async-request\\send-async-request.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guven\\source\\repos\\send-async-request\\send-async-request\\send-async-request.csproj",
+        "projectUniqueName": "c:\\Users\\guven\\source\\repos\\send-async-request\\send-async-request\\send-async-request.csproj",
         "projectName": "send-async-request",
-        "projectPath": "C:\\Users\\guven\\source\\repos\\send-async-request\\send-async-request\\send-async-request.csproj",
+        "projectPath": "c:\\Users\\guven\\source\\repos\\send-async-request\\send-async-request\\send-async-request.csproj",
         "packagesPath": "C:\\Users\\guven\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guven\\source\\repos\\send-async-request\\send-async-request\\obj\\",
+        "outputPath": "c:\\Users\\guven\\source\\repos\\send-async-request\\send-async-request\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guven\\AppData\\Roaming\\NuGet\\NuGet.Config",
